@@ -1,0 +1,9 @@
+failed to pull image: mysql
+failed to pull image: java
+Exception on: java
+failed to pull image: aerospike
+Exception on: aerospike
+failed to pull image: elasticsearch
+Exception on: elasticsearch
+failed to pull image: consul
+Exception on: consul
